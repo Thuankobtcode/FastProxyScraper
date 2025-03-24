@@ -1,4 +1,4 @@
-# **ProxyScraperX** 🕵️‍♂️🔥  
+# **FastProxyScraper** 🕵️‍♂️🔥  
 **A tool for automatically fetching free proxies from multiple sources**  
 
 ## **📌 Main Features:**  
