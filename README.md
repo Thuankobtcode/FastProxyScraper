@@ -8,7 +8,7 @@
 ✅ Displays fetch status (**Success/Failed**)  
 ✅ Option to open a GitHub proxy repository for more sources 
 ✅ IP:PORT SUPPORT
-
+✅ This is open source code.
 ## ** How to Use:**  
 1️⃣ **Clone the repo:**  
 ```bash
